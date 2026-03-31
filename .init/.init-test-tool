@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/pet-adoption-platform-251219-251235/pet_shelter_frontend"
+}
